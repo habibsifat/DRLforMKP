@@ -6,6 +6,10 @@ This project shows the official codes that used in A Deep Reinforcement Learning
 Appl. Sci. 2022, 12(6), 3068; https://doi.org/10.3390/app12063068
 
 
+
+![image](https://user-images.githubusercontent.com/69515626/199708217-af268d7a-d9eb-4502-979b-0aa87880aca7.png)
+<Figure in the paper>
+
 I used it in spyder IDE, and the scripts are as follow
 creating item and knapsack instances
 
