@@ -1,0 +1,11 @@
+runfile('C:/MasterC_Second/RI.py', wdir='C:/MasterC_Second',args='1000 50 3 10 80')
+runfile('C:/MasterC_Second/LI.py', wdir='C:/MasterC_Second',args='1000 50 3 10 10')
+runfile('C:/MasterC_Second/QI.py', wdir='C:/MasterC_Second',args='1000 50 1 10 20')
+
+runfile('C:/MasterC_Second/test.py', wdir='C:/MasterC_Second',args='1000 0.0001 50 1 5 0.9999999 6 4')
+runfile('C:/MasterC_Second/train.py', wdir='C:/MasterC_Second',args='1000 0.0001 50 1000 5 0.9999999 6 4 0')
+
+
+runfile('C:/MasterC_Second/random.py', wdir='C:/MasterC_Second',args='1000 0.001 50 1 1 0.99')
+runcell(0, 'C:/MasterC_Second/gurobi_op_mul.py')
+runfile('C:/MasterC_Second/ffh.py', wdir='C:/MasterC_Second',args='1000 0.001 50 1 1 0.99')
